@@ -28,11 +28,11 @@ My research interest includes NLP, multi-modality, document AI and human-in-the-
 
 # 🔥 News
 - *2024.10*: &nbsp;🎉 One first-author paper has been accepted to NeurIPS 2024.
-- *2024.10*: &nbsp;🎉 We released MTVQA, which is the first text-centric multilingual multimodality benchmark for LLMs.
-- *2024.10*: &nbsp;🎉 We released LayTextLLM, interleaving layout and text information for LLM, achiving SOTA performance across multiple document AI benchmarks.
-- *2024.10*: &nbsp;🎉 One co-first author paper has been accepted to ACL 2024 findings. 
-- *2024.10*: &nbsp;🎉 One co-first author paper has been accepted to COLING-LREC 2024.
-- *2024.10*: &nbsp;🎉 One paper has been accepted to NAACL 2024. 
+- *2024.07*: &nbsp;🎉 We released LayTextLLM, interleaving layout and text information for LLM, achieving SOTA performance across multiple document AI benchmarks.
+- *2024.05*: &nbsp;🎉 We released MTVQA, which is the first text-centric multilingual multimodality benchmark for LLMs[**Project**](https://portaspeech.github.io/) \| [![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=Code+Stars)](https://github.com/NATSpeech/NATSpeech) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/spaces/NATSpeech/PortaSpeech).
+- *2024.05*: &nbsp;🎉 One paper has been accepted to ACL 2024 findings. 
+- *2024.03*: &nbsp;🎉 One paper has been accepted to NAACL 2024.
+- *2024.02*: &nbsp;🎉 One co-first author paper has been accepted to COLING-LREC 2024.
 - *2023.06*: &nbsp;🎉 One first-author paper has been accepted to AAAI 2023. 
 - *2023.05*: &nbsp;🎉 One first-author paper has been accepted to ACL 2023.
 - *2023.05*: &nbsp;🎉 One paper has been accepted to ACL 2023 findings.

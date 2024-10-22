@@ -17,9 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I work at ByteDance <img src='./images/tiktok.png' style='width: 6em;'> as a AI researcher now in Shanghai, China. 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am now working on NLP, multi-modality, document AI, LLM-related foundational research. If you are seeking any form of **academic cooperation**, please feel free to email me at [lujinghui@bytedance.com](mailto:lujinghuii@bytedance.com). We are hiring interns!
+
+I graduated from [Xiamen University (厦门大学)](https://www.xmu.edu.cn/) with a bachelor's degree of Software Engineering and from the School of Computer Science, University College Dublin (都柏林大学) with a master's degree, advised by [](https://person.zju.edu.cn/zhaozhou), majoring in natural language processing. I also collaborate with , and  from closely. 
+
+My research interest includes NLP, multi-modality, document AI and human-in-the-loop. I have published 20+ papers <a href='https://scholar.google.com/citations?hl=en&user=ZzK_UdYAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as NeurIPS, ACL, NAACL, AAAI. 
 
 
 # 🔥 News

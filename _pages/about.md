@@ -28,7 +28,7 @@ My research interest includes NLP, multi-modality, document AI and human-in-the-
 
 # 🔥 News
 - *2024.10*: &nbsp;🎉 One first-author paper has been accepted to NeurIPS 2024.
-- *2024.07*: &nbsp;🎉 We released LayTextLLM, interleaving layout and text information for LLM, achieving SOTA performance across multiple document AI benchmarks.
+- *2024.07*: &nbsp;🎉 We released LayTextLLM, interleaving layout and text information for LLM, achieving SOTA performance across multiple document AI benchmarks \| [**Project**](https://github.com/LayTextLLM/LayTextLLM) \| [![](https://img.shields.io/github/stars/LayTextLLM/LayTextLLM?style=social&label=Code+Stars)](https://github.com/LayTextLLM/LayTextLLM) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/LayTextLLM).
 - *2024.05*: &nbsp;🎉 We released MTVQA, which is the first text-centric multilingual multimodality benchmark for LLMs \| [**Project**](https://bytedance.github.io/MTVQA/) \| [![](https://img.shields.io/github/stars/bytedance/MTVQA?style=social&label=Code+Stars)](https://github.com/bytedance/MTVQA) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/datasets/ByteDance/MTVQA).
 - *2024.05*: &nbsp;🎉 One paper has been accepted to ACL 2024 findings. 
 - *2024.03*: &nbsp;🎉 One paper has been accepted to NAACL 2024.

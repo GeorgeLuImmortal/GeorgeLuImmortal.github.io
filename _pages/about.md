@@ -23,7 +23,7 @@ I am now working on NLP, multi-modality, document AI, LLM-related foundational r
 
 I graduated from [Xiamen University (厦门大学)](https://www.xmu.edu.cn/) with a bachelor's degree of Software Engineering and from the School of Computer Science, University College Dublin (都柏林大学) with a master's degree, advised by [](https://person.zju.edu.cn/zhaozhou), majoring in natural language processing. I also collaborate with , and  from closely. 
 
-My research interest includes NLP, multi-modality, document AI and human-in-the-loop. I have published 20+ papers <a href='https://scholar.google.com/citations?hl=en&user=ZzK_UdYAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as NeurIPS, ACL, NAACL, AAAI. 
+My research interest includes NLP, multi-modality, document AI and human-in-the-loop. I have published 20+ papers <a href='https://scholar.google.com/citations?hl=en&user=ZzK_UdYAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FGeorgeLuImmortal%2FGeorgeLuImmortal.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences such as NeurIPS, ACL, NAACL, AAAI. 
 
 
 # 🔥 News

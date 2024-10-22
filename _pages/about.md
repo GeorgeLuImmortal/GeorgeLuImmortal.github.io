@@ -29,7 +29,7 @@ My research interest includes NLP, multi-modality, document AI and human-in-the-
 # 🔥 News
 - *2024.10*: &nbsp;🎉 One first-author paper has been accepted to NeurIPS 2024.
 - *2024.07*: &nbsp;🎉 We released LayTextLLM, interleaving layout and text information for LLM, achieving SOTA performance across multiple document AI benchmarks.
-- *2024.05*: &nbsp;🎉 We released MTVQA, which is the first text-centric multilingual multimodality benchmark for LLMs[**Project**](https://portaspeech.github.io/) \| [![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=Code+Stars)](https://github.com/NATSpeech/NATSpeech) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/spaces/NATSpeech/PortaSpeech).
+- *2024.05*: &nbsp;🎉 We released MTVQA, which is the first text-centric multilingual multimodality benchmark for LLMs [**Project**](https://bytedance.github.io/MTVQA/) \| [![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=Code+Stars)](https://github.com/bytedance/MTVQA) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/datasets/ByteDance/MTVQA).
 - *2024.05*: &nbsp;🎉 One paper has been accepted to ACL 2024 findings. 
 - *2024.03*: &nbsp;🎉 One paper has been accepted to NAACL 2024.
 - *2024.02*: &nbsp;🎉 One co-first author paper has been accepted to COLING-LREC 2024.
@@ -66,7 +66,7 @@ My research interest includes NLP, multi-modality, document AI and human-in-the-
 
 # 💬 Invited Talks
 - *2023.01*, ChatGPT的前世今生与未来 (建信信托2023浪潮之巅沙龙, beijing, China)
-- *2022.11*, Diffusion Model and its Applications (SuzumuraLab tutorial, the Univeristy of Tokyo), [slide](https://ireneli.eu/wp-content/uploads/2022/11/ddpm_lab.pdf), [post](https://www.linkedin.com/posts/irenelizihui_ddpmlabpdf-activity-7002228308272717824-KWak?utm_source=share&utm_medium=member_desktop)
+- *2022.11*, Diffusion Model and its Applications (SuzumuraLab tutorial, the Univeristy of Tokyo), [Slide](https://ireneli.eu/wp-content/uploads/2022/11/ddpm_lab.pdf), [Post](https://www.linkedin.com/posts/irenelizihui_ddpmlabpdf-activity-7002228308272717824-KWak?utm_source=share&utm_medium=member_desktop)
 
 # 💻 Community Service
 - *2020 - Now*, serve as a review at ACL, AAAI, ICLR, NAACL, COLING, EMNLP, NeurIPS, etc.

@@ -105,10 +105,10 @@ We present a novel rational-centric framework with human-in-the-loop – Rationa
 </div>
 
 # 🎖 Honors and Awards
-- *2024.06* Award for High-Level Overseas Talents, Shanghai, China
-- *2023.01* Outstanding Project Annual, SCG, SenseTime Group Ltd. China
-- *2016.09* Walsh Fellowship Award, Ireland.
-- *2015.09* Graduate Global Scholarship (<0.5\%), University College Dublin, Ireland
+- *2024.06*, Award for High-Level Overseas Talents, Shanghai, China
+- *2023.01*, Outstanding Project Annual, SCG, SenseTime Group Ltd. China
+- *2016.09*, Walsh Fellowship Award, Ireland.
+- *2015.09*, Graduate Global Scholarship (<0.5\%), University College Dublin, Ireland
 
 # 📖 Educations
 - *2016.09 - 2021.01*, Phd, University College Dublin, Ireland.

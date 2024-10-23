@@ -37,8 +37,24 @@ My research interest includes NLP, multi-modality, document AI and human-in-the-
 - *2023.05*: &nbsp;🎉 One first-author paper has been accepted to ACL 2023.
 - *2023.05*: &nbsp;🎉 One paper has been accepted to ACL 2023 findings.
 - *2022.03*: &nbsp;🎉 One first-author paper has been accepted to ACL 2022.
+- *2021.07*: &nbsp;🎉 One first-author paper has been accepted to ICML 2021 Workshop.
 
 # 📝 Selected Publications 
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2022</div></div></div> -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/acl_22_fig.png' height="200"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**PUnifiedNER: a prompting-based unified NER system for diverse datasets**
+
+**Jinghui Lu** , Rui Zhao, Brian Mac Namee, Fei Tan U+2709
+
+We present a novel rational-centric framework with human-in-the-loop – Rationales-centric Double-robustness Learning (RDL) – to boost model out-of-distribution performance in few-shot learning scenarios. By using static semi-factual generation and dynamic human-intervened correction, RDL, acting like a sensible “inductive bias”, exploits rationales (i.e. phrases that cause the prediction), human interventions and semi-factual augmentations to decouple spurious associations and bias models towards generally applicable underlying distributions, which enables fast and accurate generalisation. Experimental results show that RDL leads to significant prediction benefits on both in-distribution and out-of-distribution tests, especially for few-shot learning scenarios, compared to many state-of-the-art benchmarks.
+
+[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/26564/26336) [Code](https://github.com/GeorgeLuImmortal/PUnifiedNER)
+
+</div>
+</div>
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2022</div></div></div> -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2022</div><img src='images/acl_22_fig.png' height="200"></div></div>
@@ -46,11 +62,11 @@ My research interest includes NLP, multi-modality, document AI and human-in-the-
 
 **A Rationale-Centric Framework for Human-in-the-loop Machine Learning**
 
-**Jinghui Lu** *, Linyi Yang *, Brian Namee, Yue Zhang
+**Jinghui Lu** *, Linyi Yang *, Brian Mac Namee, Yue Zhang
 
 We present a novel rational-centric framework with human-in-the-loop – Rationales-centric Double-robustness Learning (RDL) – to boost model out-of-distribution performance in few-shot learning scenarios. By using static semi-factual generation and dynamic human-intervened correction, RDL, acting like a sensible “inductive bias”, exploits rationales (i.e. phrases that cause the prediction), human interventions and semi-factual augmentations to decouple spurious associations and bias models towards generally applicable underlying distributions, which enables fast and accurate generalisation. Experimental results show that RDL leads to significant prediction benefits on both in-distribution and out-of-distribution tests, especially for few-shot learning scenarios, compared to many state-of-the-art benchmarks.
 
-[Paper](https://aclanthology.org/2022.acl-long.481/) [Code](https://github.com/GeorgeLuImmortal/RDL-Rationales-centric-Double-robustness-Learning))
+[Paper](https://aclanthology.org/2022.acl-long.481/) [Code](https://github.com/GeorgeLuImmortal/RDL-Rationales-centric-Double-robustness-Learning)
 
 </div>
 </div>

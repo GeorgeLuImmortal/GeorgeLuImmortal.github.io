@@ -52,6 +52,9 @@ We present a novel rational-centric framework with human-in-the-loop – Rationa
 
 [Paper](https://aclanthology.org/2022.acl-long.481/) [Code](https://github.com/GeorgeLuImmortal/RDL-Rationales-centric-Double-robustness-Learning))
 
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2024.06* Award for High-Level Overseas Talents, Shanghai, China
 - *2023.01* Outstanding Project Annual, SCG, SenseTime Group Ltd. China

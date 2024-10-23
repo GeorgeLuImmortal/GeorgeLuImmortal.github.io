@@ -56,9 +56,6 @@ In this study, we aim to reduce generation latency for Named Entity Recognition 
 </div>
 </div>
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div></div></div> -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/acl_22_fig.png' height="200"></div></div>
-<div class='paper-box-text' markdown="1">
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div></div></div> -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/acl_22_fig.png' height="200"></div></div>
@@ -80,7 +77,6 @@ Much of named entity recognition (NER) research focuses on developing dataset-sp
 <div class='paper-box-text' markdown="1">
 
 
-
 **What Makes Pre-trained Language Models Better Zero-shot Learners?**
 
 **Jinghui Lu** , Dongsheng Zhu, Weidong Han, Rui Zhao, Brian Mac Namee, Fei Tan ✉️
@@ -95,7 +91,6 @@ Current methods for prompt learning in zero-shot scenarios widely rely on a deve
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2022</div></div></div> -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2022</div><img src='images/acl_22_fig.png' height="200"></div></div>
 <div class='paper-box-text' markdown="1">
-
 
 
 **A Rationale-Centric Framework for Human-in-the-loop Machine Learning**

@@ -117,7 +117,7 @@ We present a novel rational-centric framework with human-in-the-loop – Rationa
 - *2008.09 - 2011.06*, Fuzhou No. 1 Middle School, China.
 
 # 💬 Invited Talks
-- *2023.01*, ChatGPT的前世今生与未来 (建信信托2023浪潮之巅沙龙, Beijing, China)
+- *2023.01*, ChatGPT's past, present and future (CCB Trust, internal talk, Beijing, China)
 - *2022.11*, Diffusion Model and its Applications (SuzumuraLab tutorial, the Univeristy of Tokyo), [Slide](https://ireneli.eu/wp-content/uploads/2022/11/ddpm_lab.pdf), [Post](https://www.linkedin.com/posts/irenelizihui_ddpmlabpdf-activity-7002228308272717824-KWak?utm_source=share&utm_medium=member_desktop)
 
 # 💻 Community Service

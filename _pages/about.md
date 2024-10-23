@@ -41,7 +41,26 @@ My research interest includes NLP, multi-modality, document AI and human-in-the-
 
 # 📝 Selected Publications 
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2022</div></div></div> -->
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div></div></div> -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/acl_22_fig.png' height="200"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**PaDeLLM-NER: Parallel Decoding in Large Language Models for Named Entity Recognition**
+
+**Jinghui Lu** , Rui Zhao, Brian Mac Namee, Fei Tan ✉️ 
+
+In this study, we aim to reduce generation latency for Named Entity Recognition (NER) with Large Language Models (LLMs). The main cause of high latency in LLMs is the sequential decoding process, which autoregressively generates all labels and mentions for NER, significantly increase the sequence length. To this end, we introduce Parallel Decoding in LLM for NE} (PaDeLLM-NER), a approach that integrates seamlessly into existing generative model frameworks without necessitating additional modules or architectural modifications. PaDeLLM-NER allows for the simultaneous decoding of all mentions, thereby reducing generation latency. Experiments reveal that PaDeLLM-NER significantly increases inference speed that is 1.76 to 10.22 times faster than the autoregressive approach for both English and Chinese. Simultaneously it maintains the quality of predictions as evidenced by the performance that is on par with the state-of-the-art across various datasets.
+
+[Paper](https://arxiv.org/abs/2402.04838) [Code](https://github.com/GeorgeLuImmortal/PaDeLLM_NER)
+
+</div>
+</div>
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div></div></div> -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/acl_22_fig.png' height="200"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div></div></div> -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/acl_22_fig.png' height="200"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -56,9 +75,28 @@ Much of named entity recognition (NER) research focuses on developing dataset-sp
 </div>
 </div>
 
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div></div></div> -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/acl_22_fig.png' height="200"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+
+**What Makes Pre-trained Language Models Better Zero-shot Learners?**
+
+**Jinghui Lu** , Dongsheng Zhu, Weidong Han, Rui Zhao, Brian Mac Namee, Fei Tan ✉️
+
+Current methods for prompt learning in zero-shot scenarios widely rely on a development set with sufficient human-annotated data to select the best-performing prompt template a posteriori. This is not ideal because in a real-world zero-shot scenario of practical relevance, no labelled data is available. Thus, we propose a simple yet effective method for screening reasonable prompt templates in zero-shot text classification: Perplexity Selection (Perplection). We hypothesize that language discrepancy can be used to measure the efficacy of prompt templates, and thereby develop a substantiated perplexity-based scheme allowing for forecasting the performance of prompt templates in advance. Experiments show that our method leads to improved prediction performance in a realistic zero-shot setting, eliminating the need for any labelled examples.
+
+[Paper](https://aclanthology.org/2023.acl-long.128/)
+
+</div>
+</div>
+
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2022</div></div></div> -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2022</div><img src='images/acl_22_fig.png' height="200"></div></div>
 <div class='paper-box-text' markdown="1">
+
+
 
 **A Rationale-Centric Framework for Human-in-the-loop Machine Learning**
 

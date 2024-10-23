@@ -61,11 +61,13 @@ My research interest includes NLP, multi-modality, document AI and human-in-the-
 - *2015.09* Graduate Global Scholarship (<0.5\%), University College Dublin, Ireland
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2016.09 - 2021.01*, Phd, University College Dublin, Ireland.
+- *2015.09 - 2016.06*, Master, University College Dublin, Ireland.
+- *2011.09 - 2015.06*, Undergraudate, Xiamen University, China.
+- *2008.09 - 2011.06*, Fuzhou No. 1 Middle School, China.
 
 # 💬 Invited Talks
-- *2023.01*, ChatGPT的前世今生与未来 (建信信托2023浪潮之巅沙龙, beijing, China)
+- *2023.01*, ChatGPT的前世今生与未来 (建信信托2023浪潮之巅沙龙, Beijing, China)
 - *2022.11*, Diffusion Model and its Applications (SuzumuraLab tutorial, the Univeristy of Tokyo), [Slide](https://ireneli.eu/wp-content/uploads/2022/11/ddpm_lab.pdf), [Post](https://www.linkedin.com/posts/irenelizihui_ddpmlabpdf-activity-7002228308272717824-KWak?utm_source=share&utm_medium=member_desktop)
 
 # 💻 Community Service

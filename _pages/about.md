@@ -47,9 +47,9 @@ My research interest includes NLP, multi-modality, document AI and human-in-the-
 
 **PUnifiedNER: a prompting-based unified NER system for diverse datasets**
 
-**Jinghui Lu** , Rui Zhao, Brian Mac Namee, Fei Tan U+2709
+**Jinghui Lu** , Rui Zhao, Brian Mac Namee, Fei Tan ✉️ 
 
-We present a novel rational-centric framework with human-in-the-loop – Rationales-centric Double-robustness Learning (RDL) – to boost model out-of-distribution performance in few-shot learning scenarios. By using static semi-factual generation and dynamic human-intervened correction, RDL, acting like a sensible “inductive bias”, exploits rationales (i.e. phrases that cause the prediction), human interventions and semi-factual augmentations to decouple spurious associations and bias models towards generally applicable underlying distributions, which enables fast and accurate generalisation. Experimental results show that RDL leads to significant prediction benefits on both in-distribution and out-of-distribution tests, especially for few-shot learning scenarios, compared to many state-of-the-art benchmarks.
+Much of named entity recognition (NER) research focuses on developing dataset-specific models based on data from the domain of interest, and a limited set of related entity types. This is frustrating as each new dataset requires a new model to be trained and stored. In this work, we present a "versatile" model—the Prompting-based Unified NER system (PUnifiedNER)—that works with data from different domains and can recognise up to 37 entity types simultaneously, and theoretically it could be as many as possible. By using prompt learning, PUnifiedNER is a novel approach that is able to jointly train across multiple corpora, implementing intelligent on-demand entity recognition. Experimental results show that PUnifiedNER leads to significant prediction benefits compared to dataset-specific models with impressively reduced model deployment costs. Furthermore, the performance of PUnifiedNER can achieve competitive or even better performance than state-of-the-art domain-specific methods for some datasets. We also perform comprehensive pilot and ablation studies to support in-depth analysis of each component in PUnifiedNER.
 
 [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/26564/26336) [Code](https://github.com/GeorgeLuImmortal/PUnifiedNER)
 
@@ -62,7 +62,7 @@ We present a novel rational-centric framework with human-in-the-loop – Rationa
 
 **A Rationale-Centric Framework for Human-in-the-loop Machine Learning**
 
-**Jinghui Lu** *, Linyi Yang *, Brian Mac Namee, Yue Zhang
+**Jinghui Lu** *, Linyi Yang *, Brian Mac Namee, Yue Zhang ✉️
 
 We present a novel rational-centric framework with human-in-the-loop – Rationales-centric Double-robustness Learning (RDL) – to boost model out-of-distribution performance in few-shot learning scenarios. By using static semi-factual generation and dynamic human-intervened correction, RDL, acting like a sensible “inductive bias”, exploits rationales (i.e. phrases that cause the prediction), human interventions and semi-factual augmentations to decouple spurious associations and bias models towards generally applicable underlying distributions, which enables fast and accurate generalisation. Experimental results show that RDL leads to significant prediction benefits on both in-distribution and out-of-distribution tests, especially for few-shot learning scenarios, compared to many state-of-the-art benchmarks.
 

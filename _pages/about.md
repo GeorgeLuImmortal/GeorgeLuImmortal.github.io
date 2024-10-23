@@ -42,7 +42,7 @@ My research interest includes NLP, multi-modality, document AI and human-in-the-
 # 📝 Selected Publications 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div></div></div> -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/acl_22_fig.png' height="200"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/nips_2024.png' height="200"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **PaDeLLM-NER: Parallel Decoding in Large Language Models for Named Entity Recognition**
@@ -58,7 +58,7 @@ In this study, we aim to reduce generation latency for Named Entity Recognition 
 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div></div></div> -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/acl_22_fig.png' height="200"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/aaai_2023.png' height="200"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **PUnifiedNER: a prompting-based unified NER system for diverse datasets**
@@ -73,7 +73,7 @@ Much of named entity recognition (NER) research focuses on developing dataset-sp
 </div>
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div></div></div> -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/acl_22_fig.png' height="200"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/acl_2023.png' height="200"></div></div>
 <div class='paper-box-text' markdown="1">
 
 

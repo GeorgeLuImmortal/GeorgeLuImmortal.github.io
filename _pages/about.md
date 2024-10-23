@@ -38,7 +38,7 @@ My research interest includes NLP, multi-modality, document AI and human-in-the-
 - *2023.05*: &nbsp;🎉 One first-author paper has been accepted to ACL 2023.
 - *2023.05*: &nbsp;🎉 One paper has been accepted to ACL 2023 findings.
 - *2022.03*: &nbsp;🎉 One first-author paper has been accepted to ACL 2022.
-- *2022.01*: &nbsp; I join SenseTime <img src='./images/sensetime_logo.jpg' style='width: 4em; height:4em'> as a AI researcher for NLP!
+- *2022.01*: &nbsp; I join SenseTime <img src='./images/sensetime_logo.jpg' style='width: 4em; height:2em'> as a AI researcher for NLP!
 - *2021.07*: &nbsp;🎉 One first-author paper has been accepted to ICML 2021 Workshop.
 
 # 📝 Selected Publications 

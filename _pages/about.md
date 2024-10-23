@@ -33,10 +33,12 @@ My research interest includes NLP, multi-modality, document AI and human-in-the-
 - *2024.05*: &nbsp;🎉 One paper has been accepted to ACL 2024 findings. 
 - *2024.03*: &nbsp;🎉 One paper has been accepted to NAACL 2024.
 - *2024.02*: &nbsp;🎉 One co-first author paper has been accepted to COLING-LREC 2024.
+- *2023.08*: &nbsp;🎉 I join ByteDance <img src='./images/tiktok.png' style='width: 6em;'> as a AI researcher in Shanghai.
 - *2023.06*: &nbsp;🎉 One first-author paper has been accepted to AAAI 2023. 
 - *2023.05*: &nbsp;🎉 One first-author paper has been accepted to ACL 2023.
 - *2023.05*: &nbsp;🎉 One paper has been accepted to ACL 2023 findings.
 - *2022.03*: &nbsp;🎉 One first-author paper has been accepted to ACL 2022.
+- *2022.01*: &nbsp; I join SenseTime <img src='./images/sensetime_logo.jpg' style='width: 6em;'> as a AI researcher for NLP!
 - *2021.07*: &nbsp;🎉 One first-author paper has been accepted to ICML 2021 Workshop.
 
 # 📝 Selected Publications 

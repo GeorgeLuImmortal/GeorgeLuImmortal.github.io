@@ -30,7 +30,7 @@ My research interest includes NLP, multi-modality, document AI and human-in-the-
 - *2025.05*: &nbsp;🎉 We released Dolphin, which is a novel multimodal document image parsing model following an analyze-then-parse paradigm. \| [**Project**](https://github.com/bytedance/Dolphin) \| [![](https://img.shields.io/github/stars/Hon-Wong/VoRA?style=social&label=Code+Stars)](https://github.com/bytedance/Dolphin) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Model)](https://huggingface.co/ByteDance/Dolphin).
 - *2025.05*: &nbsp;🎉 Four papers have been accepted to ACL 2025.
 - *2025.05*: &nbsp;🎉 We released WildDoc, which is the first inaugural benchmark designed specifically for assessing document understanding in natural environments.. \| [**Project**](https://github.com/bytedance/WildDoc) \| [![](https://img.shields.io/github/stars/bytedance/WildDoc?style=social&label=Code+Stars)](https://github.com/bytedance/WildDoc) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Model)](https://huggingface.co/datasets/ByteDance/WildDoc).
-- *2025.03*: &nbsp;🎉 We released Visual as LORA, which challenges conventional encoder-based MLLM architecture such as Llava series. \| [**Project**](https://github.com/Hon-Wong/VoRA) \| [![](https://img.shields.io/github/stars/Hon-Wong/VoRA?style=social&label=Code+Stars)](https://github.com/Hon-Wong/VoRA) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Model)](https://huggingface.co/collections/Hon-Wong/vora-67ee34c9d32e9ac2358106ae).
+- *2025.03*: &nbsp;🎉 We released Visual as LORA (VORA), which challenges conventional encoder-based MLLM architecture such as Llava series. \| [**Project**](https://github.com/Hon-Wong/VoRA) \| [![](https://img.shields.io/github/stars/Hon-Wong/VoRA?style=social&label=Code+Stars)](https://github.com/Hon-Wong/VoRA) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Model)](https://huggingface.co/collections/Hon-Wong/vora-67ee34c9d32e9ac2358106ae).
 - *2024.10*: &nbsp;🎉 One first-author paper has been accepted to NeurIPS 2024.
 - *2024.07*: &nbsp;🎉 We released LayTextLLM, interleaving layout and text information for LLM, achieving SOTA performance across multiple document AI benchmarks \| [**Project**](https://github.com/LayTextLLM/LayTextLLM) \| [![](https://img.shields.io/github/stars/LayTextLLM/LayTextLLM?style=social&label=Code+Stars)](https://github.com/LayTextLLM/LayTextLLM) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Model)](https://huggingface.co/LayTextLLM).
 - *2024.05*: &nbsp;🎉 We released MTVQA, which is the first text-centric multilingual multimodality benchmark for LLMs \| [**Project**](https://bytedance.github.io/MTVQA/) \| [![](https://img.shields.io/github/stars/bytedance/MTVQA?style=social&label=Code+Stars)](https://github.com/bytedance/MTVQA) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Data)](https://huggingface.co/datasets/ByteDance/MTVQA).
@@ -46,6 +46,20 @@ My research interest includes NLP, multi-modality, document AI and human-in-the-
 - *2021.07*: &nbsp;🎉 One first-author paper has been accepted to ICML 2021 Workshop.
 
 # 📝 Selected Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/acl_2025_laytext.png' height="200"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**A bounding box is worth one token: Interleaving layout and text in a large language model for document understanding**
+
+**Jinghui Lu** *, Haiyang Yu *, Yanjie Wang, Yongjie Ye, Jingqun Tang, Ziwei Yang, Binghong Wu, Qi Liu, Hao Feng, Han Wang, Hao Liu, Can Huang ✉️ 
+
+Recently, many studies have demonstrated that exclusively incorporating OCR-derived text and spatial layouts with large language models (LLMs) can be highly effective for document understanding tasks. However, existing methods that integrate spatial layouts with text have limitations, such as producing overly long text sequences or failing to fully leverage the autoregressive traits of LLMs. In this work, we introduce Interleaving Layout and Text in a Large Language Model (LayTextLLM)} for document understanding. LayTextLLM projects each bounding box to a single embedding and interleaves it with text, efficiently avoiding long sequence issues while leveraging autoregressive traits of LLMs. LayTextLLM not only streamlines the interaction of layout and textual data but also shows enhanced performance in KIE and VQA. Comprehensive benchmark evaluations reveal significant improvements of LayTextLLM, with a 15.2% increase on KIE tasks and 10.7% on VQA tasks compared to previous SOTA OCR-based LLMs.
+
+[Paper](https://arxiv.org/abs/2407.01976) [Code](https://github.com/LayTextLLM/LayTextLLM)
+
+</div>
+</div>
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div></div></div> -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/nips_2024.png' height="200"></div></div>

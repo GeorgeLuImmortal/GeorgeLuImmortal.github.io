@@ -27,6 +27,8 @@ My research interest includes NLP, multi-modality, document AI and human-in-the-
 
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉 Four papers have been accepted to ACL 2025.
+- *2025.03*: &nbsp;🎉 We released Visual as LORA, which challenges conventional encoder-based MLLM architecture such as Llava series. \| [**Project**](https://github.com/Hon-Wong/VoRA) \| [![](https://img.shields.io/github/stars/Hon-Wong/VoRA?style=social&label=Code+Stars)](https://github.com/Hon-Wong/VoRA) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Model)](https://huggingface.co/collections/Hon-Wong/vora-67ee34c9d32e9ac2358106ae).
 - *2024.10*: &nbsp;🎉 One first-author paper has been accepted to NeurIPS 2024.
 - *2024.07*: &nbsp;🎉 We released LayTextLLM, interleaving layout and text information for LLM, achieving SOTA performance across multiple document AI benchmarks \| [**Project**](https://github.com/LayTextLLM/LayTextLLM) \| [![](https://img.shields.io/github/stars/LayTextLLM/LayTextLLM?style=social&label=Code+Stars)](https://github.com/LayTextLLM/LayTextLLM) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Model)](https://huggingface.co/LayTextLLM).
 - *2024.05*: &nbsp;🎉 We released MTVQA, which is the first text-centric multilingual multimodality benchmark for LLMs \| [**Project**](https://bytedance.github.io/MTVQA/) \| [![](https://img.shields.io/github/stars/bytedance/MTVQA?style=social&label=Code+Stars)](https://github.com/bytedance/MTVQA) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Data)](https://huggingface.co/datasets/ByteDance/MTVQA).
@@ -38,7 +40,7 @@ My research interest includes NLP, multi-modality, document AI and human-in-the-
 - *2023.05*: &nbsp;🎉 One first-author paper has been accepted to ACL 2023.
 - *2023.05*: &nbsp;🎉 One paper has been accepted to ACL 2023 findings.
 - *2022.03*: &nbsp;🎉 One first-author paper has been accepted to ACL 2022.
-- *2022.01*: &nbsp; I join SenseTime Group Ltd. as a AI researcher for NLP!
+- *2022.01*: &nbsp;🎉I join SenseTime Group Ltd. as a AI researcher for NLP!
 - *2021.07*: &nbsp;🎉 One first-author paper has been accepted to ICML 2021 Workshop.
 
 # 📝 Selected Publications 

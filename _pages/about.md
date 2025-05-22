@@ -29,7 +29,7 @@ My research interest includes NLP, multi-modality, document AI and human-in-the-
 # 🔥 News
 - *2025.05*: &nbsp;🎉 We released Dolphin, which is a novel multimodal document image parsing model following an analyze-then-parse paradigm. \| [**Project**](https://github.com/bytedance/Dolphin) \| [![](https://img.shields.io/github/stars/Hon-Wong/VoRA?style=social&label=Code+Stars)](https://github.com/bytedance/Dolphin) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Model)](https://huggingface.co/ByteDance/Dolphin).
 - *2025.05*: &nbsp;🎉 Four papers have been accepted to ACL 2025.
-- *2025.05*: &nbsp;🎉 We released WildDoc, which is the first inaugural benchmark designed specifically for assessing document understanding in natural environments.. \| [**Project**](https://github.com/bytedance/WildDoc) \| [![](https://img.shields.io/github/stars/bytedance/WildDoc?style=social&label=Code+Stars)](https://github.com/bytedance/WildDoc) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Model)](https://huggingface.co/datasets/ByteDance/WildDoc).
+- *2025.05*: &nbsp;🎉 We released WildDoc, which is the first inaugural benchmark designed specifically for assessing document understanding in natural environments. \| [**Project**](https://github.com/bytedance/WildDoc) \| [![](https://img.shields.io/github/stars/bytedance/WildDoc?style=social&label=Code+Stars)](https://github.com/bytedance/WildDoc) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Model)](https://huggingface.co/datasets/ByteDance/WildDoc).
 - *2025.03*: &nbsp;🎉 We released Visual as LORA (VORA), which challenges conventional encoder-based MLLM architecture such as Llava series. \| [**Project**](https://github.com/Hon-Wong/VoRA) \| [![](https://img.shields.io/github/stars/Hon-Wong/VoRA?style=social&label=Code+Stars)](https://github.com/Hon-Wong/VoRA) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Model)](https://huggingface.co/collections/Hon-Wong/vora-67ee34c9d32e9ac2358106ae).
 - *2024.10*: &nbsp;🎉 One first-author paper has been accepted to NeurIPS 2024.
 - *2024.07*: &nbsp;🎉 We released LayTextLLM, interleaving layout and text information for LLM, achieving SOTA performance across multiple document AI benchmarks \| [**Project**](https://github.com/LayTextLLM/LayTextLLM) \| [![](https://img.shields.io/github/stars/LayTextLLM/LayTextLLM?style=social&label=Code+Stars)](https://github.com/LayTextLLM/LayTextLLM) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Model)](https://huggingface.co/LayTextLLM).
@@ -61,6 +61,21 @@ Recently, many studies have demonstrated that exclusively incorporating OCR-deri
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/acl_2025_ntil.png' height="200"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Advancing Sequential Numerical Prediction in Autoregressive Models**
+
+Xiang Fei *, **Jinghui Lu** *, Qi Sun, Hao Feng, Yanjie Wang, Wei Shi, An-Lan Wang, Jingqun Tang, Can Huang ✉️ 
+
+Autoregressive models have become the de facto choice for sequence generation tasks, but standard approaches treat digits as independent tokens and apply cross-entropy loss, overlooking the coherent structure of numerical sequences. This paper introduces Numerical Token Integrity Loss (NTIL) to address this gap. NTIL operates at two levels: (1) token-level, where it extends the Earth Mover's Distance (EMD) to preserve ordinal relationships between numerical values, and (2) sequence-level, where it penalizes the overall discrepancy between the predicted and actual sequences. This dual approach improves numerical prediction and integrates effectively with LLMs/MLLMs. Extensive experiments show significant performance improvements with NTIL.
+
+[Paper](https://arxiv.org/abs/2505.13077)
+
+</div>
+</div>
+
+
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div></div></div> -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/nips_2024.png' height="200"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -72,6 +87,20 @@ Recently, many studies have demonstrated that exclusively incorporating OCR-deri
 In this study, we aim to reduce generation latency for Named Entity Recognition (NER) with Large Language Models (LLMs). The main cause of high latency in LLMs is the sequential decoding process, which autoregressively generates all labels and mentions for NER, significantly increase the sequence length. To this end, we introduce Parallel Decoding in LLM for NE} (PaDeLLM-NER), a approach that integrates seamlessly into existing generative model frameworks without necessitating additional modules or architectural modifications. PaDeLLM-NER allows for the simultaneous decoding of all mentions, thereby reducing generation latency. Experiments reveal that PaDeLLM-NER significantly increases inference speed that is 1.76 to 10.22 times faster than the autoregressive approach for both English and Chinese. Simultaneously it maintains the quality of predictions as evidenced by the performance that is on par with the state-of-the-art across various datasets.
 
 [Paper](https://arxiv.org/abs/2402.04838) [Code](https://github.com/GeorgeLuImmortal/PaDeLLM_NER)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LREC-COLING 2024</div><img src='images/coling_2024.png' height="200"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**SDA: Simple Discrete Augmentation for Contrastive Sentence Representation Learning**
+
+Dongsheng Zhu *, Zhenyu Mao *, **Jinghui Lu** *, Rui Zhao, Fei Tan ✉️ 
+
+Contrastive learning has recently achieved compelling performance in unsupervised sentence representation. As an essential element, data augmentation protocols, however, have not been well explored. The pioneering work SimCSE resorting to a simple dropout mechanism (viewed as continuous augmentation) surprisingly dominates discrete augmentations such as cropping, word deletion, and synonym replacement as reported. To understand the underlying rationales, we revisit existing approaches and attempt to hypothesize the desiderata of reasonable data augmentation methods: balance of semantic consistency and expression diversity. We then develop three simple yet effective discrete sentence augmentation schemes: punctuation insertion, modal verbs, and double negation. They act as minimal noises at lexical level to produce diverse forms of sentences. Furthermore, standard negation is capitalized on to generate negative samples for alleviating feature suppression involved in contrastive learning. We experimented extensively with semantic textual similarity on diverse datasets. The results support the superiority of the proposed methods consistently.
+
+[Paper](https://aclanthology.org/2024.lrec-main.1260/) [Code](https://github.com/Zhudongsheng75/SDA)
 
 </div>
 </div>

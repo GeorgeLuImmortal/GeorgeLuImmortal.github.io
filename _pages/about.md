@@ -27,7 +27,9 @@ My research interest includes NLP, multi-modality, document AI and human-in-the-
 
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉 We released Dolphin, which is a novel multimodal document image parsing model following an analyze-then-parse paradigm. \| [**Project**](https://github.com/bytedance/Dolphin) \| [![](https://img.shields.io/github/stars/Hon-Wong/VoRA?style=social&label=Code+Stars)](https://github.com/bytedance/Dolphin) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Model)](https://huggingface.co/ByteDance/Dolphin).
 - *2025.05*: &nbsp;🎉 Four papers have been accepted to ACL 2025.
+- *2025.05*: &nbsp;🎉 We released WildDoc, which is the first inaugural benchmark designed specifically for assessing document understanding in natural environments.. \| [**Project**](https://github.com/bytedance/WildDoc) \| [![](https://img.shields.io/github/stars/bytedance/WildDoc?style=social&label=Code+Stars)](https://github.com/bytedance/WildDoc) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Model)](https://huggingface.co/datasets/ByteDance/WildDoc).
 - *2025.03*: &nbsp;🎉 We released Visual as LORA, which challenges conventional encoder-based MLLM architecture such as Llava series. \| [**Project**](https://github.com/Hon-Wong/VoRA) \| [![](https://img.shields.io/github/stars/Hon-Wong/VoRA?style=social&label=Code+Stars)](https://github.com/Hon-Wong/VoRA) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Model)](https://huggingface.co/collections/Hon-Wong/vora-67ee34c9d32e9ac2358106ae).
 - *2024.10*: &nbsp;🎉 One first-author paper has been accepted to NeurIPS 2024.
 - *2024.07*: &nbsp;🎉 We released LayTextLLM, interleaving layout and text information for LLM, achieving SOTA performance across multiple document AI benchmarks \| [**Project**](https://github.com/LayTextLLM/LayTextLLM) \| [![](https://img.shields.io/github/stars/LayTextLLM/LayTextLLM?style=social&label=Code+Stars)](https://github.com/LayTextLLM/LayTextLLM) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Model)](https://huggingface.co/LayTextLLM).
@@ -125,4 +127,4 @@ We present a novel rational-centric framework with human-in-the-loop – Rationa
 - *2022.11*, Diffusion Model and its Applications (SuzumuraLab tutorial, the Univeristy of Tokyo), [Slide](https://ireneli.eu/wp-content/uploads/2022/11/ddpm_lab.pdf), [Post](https://www.linkedin.com/posts/irenelizihui_ddpmlabpdf-activity-7002228308272717824-KWak?utm_source=share&utm_medium=member_desktop)
 
 # 💻 Community Service
-- *2020 - Now*, serve as a review at ACL, AAAI, ICLR, NAACL, COLING, EMNLP, NeurIPS, etc.
+- *2020 - Now*, serve as a review at ACL, AAAI, ICLR, NAACL, COLING, EMNLP, NeurIPS, CVPR, ICCV, ECCV etc.

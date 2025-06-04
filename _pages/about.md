@@ -66,11 +66,26 @@ Recently, many studies have demonstrated that exclusively incorporating OCR-deri
 
 **Advancing Sequential Numerical Prediction in Autoregressive Models**
 
-Xiang Fei *, **Jinghui Lu** *, Qi Sun, Hao Feng, Yanjie Wang, Wei Shi, An-Lan Wang, Jingqun Tang, Can Huang ✉️ 
+Xiang Fei *, **Jinghui Lu** *, Qi Sun *, Hao Feng ✉️, Yanjie Wang, Wei Shi, An-Lan Wang, Jingqun Tang, Can Huang ✉️ 
 
 Autoregressive models have become the de facto choice for sequence generation tasks, but standard approaches treat digits as independent tokens and apply cross-entropy loss, overlooking the coherent structure of numerical sequences. This paper introduces Numerical Token Integrity Loss (NTIL) to address this gap. NTIL operates at two levels: (1) token-level, where it extends the Earth Mover's Distance (EMD) to preserve ordinal relationships between numerical values, and (2) sequence-level, where it penalizes the overall discrepancy between the predicted and actual sequences. This dual approach improves numerical prediction and integrates effectively with LLMs/MLLMs. Extensive experiments show significant performance improvements with NTIL.
 
 [Paper](https://arxiv.org/abs/2505.13077)
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/acl_2025_ntil.png' height="200"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting**
+
+Hao Feng, Shu Wei, Xiang Fei, Wei Shi, Yingdong Han, Lei Liao, **Jinghui Lu**, Binghong Wu, Qi Liu, Chunhui Lin, Jingqun Tang, Hao Liu, Can Huang ✉️ 
+
+Document image parsing is challenging due to its complexly intertwined elements such as text paragraphs, figures, formulas, and tables. Current approaches either assemble specialized expert models or directly generate page-level content autoregressively, facing integration overhead, efficiency bottlenecks, and layout structure degradation despite their decent performance. To address these limitations, we present \textit{Dolphin} (\textit{\textbf{Do}cument Image \textbf{P}arsing via \textbf{H}eterogeneous Anchor Prompt\textbf{in}g}), a novel multimodal document image parsing model following an analyze-then-parse paradigm. In the first stage, Dolphin generates a sequence of layout elements in reading order. These heterogeneous elements, serving as anchors and coupled with task-specific prompts, are fed back to Dolphin for parallel content parsing in the second stage. To train Dolphin, we construct a large-scale dataset of over 30 million samples, covering multi-granularity parsing tasks. Through comprehensive evaluations on both prevalent benchmarks and self-constructed ones, Dolphin achieves state-of-the-art performance across diverse page-level and element-level settings, while ensuring superior efficiency through its lightweight architecture and parallel parsing mechanism.
+
+[Paper](https://arxiv.org/abs/2505.14059) [Code](https://github.com/bytedance/Dolphin)
 
 </div>
 </div>

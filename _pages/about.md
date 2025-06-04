@@ -76,7 +76,7 @@ Autoregressive models have become the de facto choice for sequence generation ta
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/acl_2025_ntil.png' height="200"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/acl_2025_dolphin.png' height="200"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting**

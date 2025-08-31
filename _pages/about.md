@@ -27,6 +27,8 @@ My research interest includes NLP, multi-modality, document AI and human-in-the-
 
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉 Two papers haven been accepted to EMNLP 2025. 
+- *2025.07*: &nbsp;🎉 One paper has been accepted to ICCV 2025. 
 - *2025.05*: &nbsp;🎉 We released Dolphin, which is a novel multimodal document image parsing model following an analyze-then-parse paradigm. \| [**Project**](https://github.com/bytedance/Dolphin) \| [![](https://img.shields.io/github/stars/bytedance/Dolphin?style=social&label=Code+Stars)](https://github.com/bytedance/Dolphin) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Model)](https://huggingface.co/ByteDance/Dolphin).
 - *2025.05*: &nbsp;🎉 Four papers have been accepted to ACL 2025.
 - *2025.05*: &nbsp;🎉 We released WildDoc, which is the first inaugural benchmark designed specifically for assessing document understanding in natural environments. \| [**Project**](https://github.com/bytedance/WildDoc) \| [![](https://img.shields.io/github/stars/bytedance/WildDoc?style=social&label=Code+Stars)](https://github.com/bytedance/WildDoc) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Model)](https://huggingface.co/datasets/ByteDance/WildDoc).
@@ -34,13 +36,13 @@ My research interest includes NLP, multi-modality, document AI and human-in-the-
 - *2024.10*: &nbsp;🎉 One first-author paper has been accepted to NeurIPS 2024.
 - *2024.07*: &nbsp;🎉 We released LayTextLLM, interleaving layout and text information for LLM, achieving SOTA performance across multiple document AI benchmarks \| [**Project**](https://github.com/LayTextLLM/LayTextLLM) \| [![](https://img.shields.io/github/stars/LayTextLLM/LayTextLLM?style=social&label=Code+Stars)](https://github.com/LayTextLLM/LayTextLLM) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Model)](https://huggingface.co/LayTextLLM).
 - *2024.05*: &nbsp;🎉 We released MTVQA, which is the first text-centric multilingual multimodality benchmark for LLMs \| [**Project**](https://bytedance.github.io/MTVQA/) \| [![](https://img.shields.io/github/stars/bytedance/MTVQA?style=social&label=Code+Stars)](https://github.com/bytedance/MTVQA) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Data)](https://huggingface.co/datasets/ByteDance/MTVQA).
-- *2024.05*: &nbsp;🎉 One paper has been accepted to ACL 2024 findings. 
+- *2024.05*: &nbsp;🎉 One paper has been accepted to ACL 2024. 
 - *2024.03*: &nbsp;🎉 One paper has been accepted to NAACL 2024.
 - *2024.02*: &nbsp;🎉 One co-first author paper has been accepted to COLING-LREC 2024.
 - *2023.08*: &nbsp;🎉 I join ByteDance <img src='./images/tiktok.png' style='width: 6em;'> as a AI researcher in Shanghai.
 - *2023.06*: &nbsp;🎉 One first-author paper has been accepted to AAAI 2023. 
 - *2023.05*: &nbsp;🎉 One first-author paper has been accepted to ACL 2023.
-- *2023.05*: &nbsp;🎉 One paper has been accepted to ACL 2023 findings.
+- *2023.05*: &nbsp;🎉 One paper has been accepted to ACL 2023.
 - *2022.03*: &nbsp;🎉 One first-author paper has been accepted to ACL 2022.
 - *2022.01*: &nbsp;🎉I join SenseTime Group Ltd. as a AI researcher for NLP!
 - *2021.07*: &nbsp;🎉 One first-author paper has been accepted to ICML 2021 Workshop.

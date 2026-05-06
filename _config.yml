@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jinghui Lu (卢竞辉)"
-description              : "AI Researcher at ByteDance Ltd. Focusing on NLP, multimodality."
+description              : "Senior AI Researcher at Xiaomi Ltd. Focusing on VLA, World Model, NLP, multimodality."
 repository               : "GeorgeLuImmortal/GeorgeLuImmortal.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  : code-ZxFK3f4pfb
 author:
   name             : "Jinghui Lu (卢竞辉)"
   avatar           : "images/ljh_head.jpg"
-  bio              : "ByteDance Ltd."
+  bio              : "Xiaomi Ltd."
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ZzK_UdYAAAAJ"
-  email            : "lujinghui@bytedance.com"
+  email            : "lujinghui@xiaomi.com"
   researchgate     : "https://www.researchgate.net/profile/Jinghui-Lu"
   uri              :
   bitbucket        :

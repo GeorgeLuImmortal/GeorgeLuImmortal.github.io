@@ -53,7 +53,21 @@ My research interest includes VLA, World Model, NLP, multi-modality, document AI
 - *2022.01*: &nbsp;🎉I join SenseTime Group Ltd. as a AI researcher for NLP!
 - *2021.07*: &nbsp;🎉 One first-author paper has been accepted to ICML 2021 Workshop.
 
-# 📝 Selected Publications 
+# 📝 Selected Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/aaai_2026.png' height="200"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**MEML-GRPO: Heterogeneous Multi-Expert Mutual Learning for RLVR Advancement**
+
+Weitao Jia *, **Jinghui Lu** *, Haiyang Yu *, Siqi Wang, Guozhi Tang, An-Lan Wang, Weijie Yin, Dingkang Yang, Yuxiang Nie, Bin Shan, Hao Feng, Irene Li, Kun Yang, Han Wang, Jingqun Tang, Teng Fu, Changhong Jin, Chao Feng, Xiaohui Lv, Can Huang ✉️ 
+
+Recent advances demonstrate that reinforcement learning with verifiable rewards (RLVR) significantly enhances the reasoning capabilities of large language models (LLMs). However, standard RLVR faces challenges with reward sparsity, where zero rewards from consistently incorrect candidate answers provide no learning signal, particularly in challenging tasks. To address this, we propose Multi-Expert Mutual Learning GRPO (MEML-GRPO), an innovative framework that utilizes diverse expert prompts as system prompts to generate a broader range of responses, substantially increasing the likelihood of identifying correct solutions. Additionally, we introduce an inter-expert mutual learning mechanism that facilitates knowledge sharing and transfer among experts, further boosting the model's performance through RLVR. Extensive experiments across multiple reasoning benchmarks show that MEML-GRPO delivers significant improvements, achieving an average performance gain of 4.89% with Qwen and 11.33% with Llama, effectively overcoming the core limitations of traditional RLVR methods.
+
+[Paper](https://arxiv.org/abs/2407.01976) [Code](https://github.com/LayTextLLM/LayTextLLM)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/acl_2025_laytext.png' height="200"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -193,4 +207,4 @@ We present a novel rational-centric framework with human-in-the-loop – Rationa
 - *2022.11*, Diffusion Model and its Applications (SuzumuraLab tutorial, the Univeristy of Tokyo), [Slide](https://ireneli.eu/wp-content/uploads/2022/11/ddpm_lab.pdf), [Post](https://www.linkedin.com/posts/irenelizihui_ddpmlabpdf-activity-7002228308272717824-KWak?utm_source=share&utm_medium=member_desktop)
 
 # 💻 Community Service
-- *2020 - Now*, serve as a review at ACL, AAAI, ICLR, NAACL, COLING, EMNLP, NeurIPS, CVPR, ICCV, ECCV etc.
+- *2020 - Now*, serve as a review at ACL, AAAI, ICLR, NAACL, COLING, EMNLP, NeurIPS, CVPR, ICCV, ECCV and area chair for top AI conferences 

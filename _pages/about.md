@@ -27,6 +27,12 @@ My research interest includes NLP, multi-modality, document AI and human-in-the-
 
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉 - *2026.04*: &nbsp;🎉 We released OneVL, the first latent CoT method to surpass explicit CoT in autonomous driving trajectory planning while matching answer-only inference latency, via a unified VLA and World Model framework with dual auxiliary decoders for both dense supervision and interpretable vision-language explanations (1# paper of the day in Huggingface trending). \| [**Project**](https://Xiaomi-Embodied-Intelligence.github.io/OneVL) \| [![](https://img.shields.io/github/stars/xiaomi-research/OneVL?style=social&label=Code+Stars)](https://github.com/xiaomi-research/OneVL). \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Model)](https://huggingface.co/collections/xiaomi-research/onevl-models).
+- *2026.05*: &nbsp;🎉 One paper has been accepted to ICML 2026 spotlight (top 2.2%). 
+- *2026.04*: &nbsp;🎉 Two papers haven been accepted to ACL 2026. 
+- *2025.11*: &nbsp;🎉 We released MiMo-Embodied, the first open-source cross-embodied foundation model that unifies autonomous driving and embodied AI, achieving SOTA on 17 embodied AI and 12 autonomous driving benchmarks. \| [**Project**](https://github.com/XiaomiMiMo/MiMo-Embodied) \| [![](https://github.com/XiaomiMiMo/MiMo-Embodied) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Model)](https://huggingface.co/collections/XiaomiMiMo/mimo-embodied).
+- *2025.09*: &nbsp;🎉 One first-author paper has been accepted to AAAI 2026.
+- *2025.08*: &nbsp;🎉 I join Xiaomi <img src='./images/xiaomi.png' style='width: 6em;'> as a Senior AI researcher in Shanghai.  
 - *2025.08*: &nbsp;🎉 Two papers haven been accepted to EMNLP 2025. 
 - *2025.07*: &nbsp;🎉 One paper has been accepted to ICCV 2025. 
 - *2025.05*: &nbsp;🎉 We released Dolphin, which is a novel multimodal document image parsing model following an analyze-then-parse paradigm. \| [**Project**](https://github.com/bytedance/Dolphin) \| [![](https://img.shields.io/github/stars/bytedance/Dolphin?style=social&label=Code+Stars)](https://github.com/bytedance/Dolphin) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Model)](https://huggingface.co/ByteDance/Dolphin).

@@ -55,7 +55,7 @@ My research interest includes VLA, World Model, NLP, multi-modality, document AI
 
 # 📝 Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/onevl.png' height="200"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv(1# paper of the day HF Trending)</div><img src='images/onevl.png' height="200"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **OneVL: One-Step Latent Reasoning and Planning with Vision-Language Explanation**
@@ -69,7 +69,7 @@ Chain-of-Thought (CoT) reasoning has become a powerful driver of trajectory pred
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/icml_2026.png' height="200"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026 Spotlight</div><img src='images/icml_2026.png' height="200"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **SpatioLM: Towards General Physical Spatial Intelligence in Vision-Language Models**

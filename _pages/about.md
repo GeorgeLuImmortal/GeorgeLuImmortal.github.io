@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I work at Xiaomi <img src='./images/xiaomi.png' style='width: 1em;'> as a senior AI researcher now in Shanghai, China. 
+I work at Xiaomi <img src='./images/xiaomi.png' style='width: 1em;'> as a senior AI researcher. Previously, I was working at ByteDance <img src='./images/tiktok.png' style='width: 6em;'> focusing on LLM and MLLM in Shanghai, China.
 
 I am now working on multimodal large language model, reinforcement learning, LLM-related foundational research, particular in VLM, VLA and World Model. If you are seeking any form of **academic cooperation**, please feel free to email me at [lujinghui@xiaomi.com](mailto:lujinghui@xiaomi.com). We are hiring interns!
 
@@ -32,7 +32,7 @@ My research interest includes VLA, World Model, NLP, multi-modality, document AI
 - *2026.04*: &nbsp;🎉 Two papers haven been accepted to ACL 2026. 
 - *2025.11*: &nbsp;🎉 We released MiMo-Embodied, the first open-source cross-embodied foundation model that unifies autonomous driving and embodied AI, achieving SOTA on 17 embodied AI and 12 autonomous driving benchmarks. \| [**Project**](https://github.com/XiaomiMiMo/MiMo-Embodied) \| [![](https://img.shields.io/github/stars/XiaomiMiMo/MiMo-Embodied?style=social&label=Code+Stars)](https://github.com/XiaomiMiMo/MiMo-Embodied) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Model)](https://huggingface.co/collections/XiaomiMiMo/mimo-embodied).
 - *2025.09*: &nbsp;🎉 One first-author paper has been accepted to AAAI 2026.
-- *2025.08*: &nbsp;🎉 I join Xiaomi <img src='./images/xiaomi.png' style='width: 1em;'> as a Senior AI researcher in Shanghai.  
+- *2025.08*: &nbsp;🎉 I joined Xiaomi <img src='./images/xiaomi.png' style='width: 1em;'> as a Senior AI researcher in Shanghai.  
 - *2025.08*: &nbsp;🎉 Two papers haven been accepted to EMNLP 2025. 
 - *2025.07*: &nbsp;🎉 One paper has been accepted to ICCV 2025. 
 - *2025.05*: &nbsp;🎉 We released Dolphin, which is a novel multimodal document image parsing model following an analyze-then-parse paradigm. \| [**Project**](https://github.com/bytedance/Dolphin) \| [![](https://img.shields.io/github/stars/bytedance/Dolphin?style=social&label=Code+Stars)](https://github.com/bytedance/Dolphin) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Model)](https://huggingface.co/ByteDance/Dolphin).
@@ -45,15 +45,43 @@ My research interest includes VLA, World Model, NLP, multi-modality, document AI
 - *2024.05*: &nbsp;🎉 One paper has been accepted to ACL 2024. 
 - *2024.03*: &nbsp;🎉 One paper has been accepted to NAACL 2024.
 - *2024.02*: &nbsp;🎉 One co-first author paper has been accepted to COLING-LREC 2024.
-- *2023.08*: &nbsp;🎉 I join ByteDance <img src='./images/tiktok.png' style='width: 6em;'> as a AI researcher in Shanghai.
+- *2023.08*: &nbsp;🎉 I joined ByteDance <img src='./images/tiktok.png' style='width: 6em;'> as a AI researcher in Shanghai.
 - *2023.06*: &nbsp;🎉 One first-author paper has been accepted to AAAI 2023. 
 - *2023.05*: &nbsp;🎉 One first-author paper has been accepted to ACL 2023.
 - *2023.05*: &nbsp;🎉 One paper has been accepted to ACL 2023.
 - *2022.03*: &nbsp;🎉 One first-author paper has been accepted to ACL 2022.
-- *2022.01*: &nbsp;🎉I join SenseTime Group Ltd. as a AI researcher for NLP!
+- *2022.01*: &nbsp;🎉I joined SenseTime Group Ltd. as a AI researcher for NLP!
 - *2021.07*: &nbsp;🎉 One first-author paper has been accepted to ICML 2021 Workshop.
 
 # 📝 Selected Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/aaai_2026.png' height="200"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**OneVL: One-Step Latent Reasoning and Planning with Vision-Language Explanation**
+
+**Jinghui Lu**, Jiayi Guan, Zhijian Huang, Jinlong Li, Guang Li, Lingdong Kong, Yingyan Li, Han Wang, Shaoqing Xu, Yuechen Luo, Fang Li, Chenxu Dang, Junli Wang, Tao Xu, Jing Wu, Jianhua Wu, Xiaoshuai Hao, Wen Zhang, Tianyi Jiang, Lingfeng Zhang, Lei Zhou, Yingbo Tang, Jie Wang, Yinfeng Gao, Xizhou Bu, Haochen Tian, Yihang Qiu, Feiyang Jia, Lin Liu, Yigu Ge, Hanbing Li, Yuannan Shen, Jianwei Cui, Hongwei Xie, Bing Wang, Haiyang Sun, Jingwei Zhao, Jiahui Huang, Pei Liu, Zeyu Zhu, Yuncheng Jiang, Zibin Guo, Chuhong Gong, Hanchao Leng, Kun Ma, Naiyan Wang, Guang Chen, Kuiyuan Yang, Hangjun Ye, Long Chen ✉️ 
+
+Chain-of-Thought (CoT) reasoning has become a powerful driver of trajectory prediction in VLAbased autonomous driving, yet its autoregressive nature imposes a latency cost that is prohibitive for real-time deployment. Latent CoT methods attempt to close this gap by compressing reasoning into continuous hidden states, but consistently fall short of their explicit counterparts. We suggest that this is due to purely linguistic latent representations compressing a symbolic abstraction of the world, rather than the causal dynamics that actually govern driving. Thus, we present OneVL (One-step latent reasoning and planning with Vision-Language explanations), a unified VLA and World Model framework that routes reasoning through compact latent tokens supervised by dual auxiliary decoders. Alongside a language decoder that reconstructs text CoT, we introduce a visual world model decoder that predicts future-frame tokens, forcing the latent space to internalize the causal dynamics of road geometry, agent motion, and environmental change. A three-stage training pipeline progressively aligns these latents with trajectory, language, and visual objectives, ensuring stable joint optimization. In inference, the auxiliary decoders are discarded, and all latent tokens are prefilled in a single parallel pass, matching the speed of answer-only prediction. Across four benchmarks, OneVL becomes the first latent CoT method to surpass explicit CoT, delivering superior accuracy at answer-only latency. These results show that with world model supervision, latent CoT produces more generalizable representations than verbose token-by-token reasoning.
+
+[Paper](https://xiaomi-embodied-intelligence.github.io/OneVL/paper.pdf)[Code](https://github.com/xiaomi-research/OneVL)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/aaai_2026.png' height="200"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**SpatioLM: Towards General Physical Spatial Intelligence in Vision-Language Models**
+
+Jing wu, Jianhua Wu, Jiayi Guan, Jiahong Chen, **Jinghui Lu**, Hangjun Ye, Bingzhao Gao, Long Chen ✉️ 
+
+Vision-Language Models (VLMs) perform well on commonsense reasoning tasks but struggle with visual spatial reasoning. Most existing solutions introduce extra 3D priors or external spatial encoders, which increase complexity and degrade the underlying VLMs' general-purpose capabilities after spatial fine-tuning. To this end, we propose a parameter-efficient Spatio-vision Language Models (SpatioLM), that enhances spatial intelligence without extra 3D priors or third-party spatial encoders. Concretely, we design a plug-and-play and non-invasive spatio-vision module that elicits the spatial knowledge inherent in VLMs. Furthermore, we innovatively leverage pseudo depth and camera information as supervision to guide the model in learning physically coherent representations. Extensive experiments show that SpatioLM achieves significant improvements in diverse tasks, including spatial perception and understanding while maintains the general-purpose capabilities. Notably, the model achieves an impressive score of 71.6 on the VSI-Bench (the first model to surpass 70). In addition, it attains competitive performance when transferred to embodied manipulation tasks.
+
+[Paper](https://icml.cc/virtual/2026/poster/65576)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/aaai_2026.png' height="200"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -64,7 +92,7 @@ Weitao Jia *, **Jinghui Lu** *, Haiyang Yu *, Siqi Wang, Guozhi Tang, An-Lan Wan
 
 Recent advances demonstrate that reinforcement learning with verifiable rewards (RLVR) significantly enhances the reasoning capabilities of large language models (LLMs). However, standard RLVR faces challenges with reward sparsity, where zero rewards from consistently incorrect candidate answers provide no learning signal, particularly in challenging tasks. To address this, we propose Multi-Expert Mutual Learning GRPO (MEML-GRPO), an innovative framework that utilizes diverse expert prompts as system prompts to generate a broader range of responses, substantially increasing the likelihood of identifying correct solutions. Additionally, we introduce an inter-expert mutual learning mechanism that facilitates knowledge sharing and transfer among experts, further boosting the model's performance through RLVR. Extensive experiments across multiple reasoning benchmarks show that MEML-GRPO delivers significant improvements, achieving an average performance gain of 4.89% with Qwen and 11.33% with Llama, effectively overcoming the core limitations of traditional RLVR methods.
 
-[Paper](https://arxiv.org/abs/2407.01976) [Code](https://github.com/LayTextLLM/LayTextLLM)
+[Paper](https://arxiv.org/abs/2508.09670)
 
 </div>
 </div>

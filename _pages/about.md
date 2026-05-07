@@ -55,7 +55,7 @@ My research interest includes VLA, World Model, NLP, multi-modality, document AI
 
 # 📝 Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/aaai_2026.png' height="200"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/onevl.png' height="200"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **OneVL: One-Step Latent Reasoning and Planning with Vision-Language Explanation**
@@ -64,12 +64,12 @@ My research interest includes VLA, World Model, NLP, multi-modality, document AI
 
 Chain-of-Thought (CoT) reasoning has become a powerful driver of trajectory prediction in VLAbased autonomous driving, yet its autoregressive nature imposes a latency cost that is prohibitive for real-time deployment. Latent CoT methods attempt to close this gap by compressing reasoning into continuous hidden states, but consistently fall short of their explicit counterparts. We suggest that this is due to purely linguistic latent representations compressing a symbolic abstraction of the world, rather than the causal dynamics that actually govern driving. Thus, we present OneVL (One-step latent reasoning and planning with Vision-Language explanations), a unified VLA and World Model framework that routes reasoning through compact latent tokens supervised by dual auxiliary decoders. Alongside a language decoder that reconstructs text CoT, we introduce a visual world model decoder that predicts future-frame tokens, forcing the latent space to internalize the causal dynamics of road geometry, agent motion, and environmental change. A three-stage training pipeline progressively aligns these latents with trajectory, language, and visual objectives, ensuring stable joint optimization. In inference, the auxiliary decoders are discarded, and all latent tokens are prefilled in a single parallel pass, matching the speed of answer-only prediction. Across four benchmarks, OneVL becomes the first latent CoT method to surpass explicit CoT, delivering superior accuracy at answer-only latency. These results show that with world model supervision, latent CoT produces more generalizable representations than verbose token-by-token reasoning.
 
-[Paper](https://xiaomi-embodied-intelligence.github.io/OneVL/paper.pdf)[Code](https://github.com/xiaomi-research/OneVL)
+[Paper](https://xiaomi-embodied-intelligence.github.io/OneVL/paper.pdf) [Code](https://github.com/xiaomi-research/OneVL)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/aaai_2026.png' height="200"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/icml_2026.png' height="200"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **SpatioLM: Towards General Physical Spatial Intelligence in Vision-Language Models**

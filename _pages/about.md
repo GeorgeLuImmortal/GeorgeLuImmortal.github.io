@@ -27,7 +27,7 @@ My research interest includes VLA, World Model, NLP, multi-modality, document AI
 
 
 # 🔥 News
-- *2026.09*: &nbsp;🎉 Two papers have been accepted to NeurIPS 2026, including one first-author paper [OneVL](https://openreview.net/forum?id=io21Uc8UVk) and [RSPO](https://openreview.net/forum?id=J3cKSlk1K3).
+- *2026.09*: &nbsp;🎉 Two papers have been accepted to NeurIPS 2026: [OneVL](https://openreview.net/forum?id=io21Uc8UVk) (first author) and [RSPO](https://openreview.net/forum?id=J3cKSlk1K3) (co-first author).
 - *2026.09*: &nbsp;🎉 One paper has been accepted to the Findings of IJCNLP-AACL 2026.
 - *2026.05*: &nbsp;🎉 We released OneVL, the first latent CoT method to surpass explicit CoT in autonomous driving trajectory planning while matching answer-only inference latency, via a unified VLA and World Model framework with dual auxiliary decoders for both dense supervision and interpretable vision-language explanations (1# paper of the day in Huggingface trending). \| [**Project**](https://Xiaomi-Embodied-Intelligence.github.io/OneVL) \| [![](https://img.shields.io/github/stars/xiaomi-research/OneVL?style=social&label=Code+Stars)](https://github.com/xiaomi-research/OneVL) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Model)](https://huggingface.co/collections/xiaomi-research/onevl-models).
 - *2026.05*: &nbsp;🎉 One paper has been accepted to ICML 2026 spotlight (top 2.2%). 
@@ -67,6 +67,20 @@ My research interest includes VLA, World Model, NLP, multi-modality, document AI
 Chain-of-Thought (CoT) reasoning has become a powerful driver of trajectory prediction in VLAbased autonomous driving, yet its autoregressive nature imposes a latency cost that is prohibitive for real-time deployment. Latent CoT methods attempt to close this gap by compressing reasoning into continuous hidden states, but consistently fall short of their explicit counterparts. We suggest that this is due to purely linguistic latent representations compressing a symbolic abstraction of the world, rather than the causal dynamics that actually govern driving. Thus, we present OneVL (One-step latent reasoning and planning with Vision-Language explanations), a unified VLA and World Model framework that routes reasoning through compact latent tokens supervised by dual auxiliary decoders. Alongside a language decoder that reconstructs text CoT, we introduce a visual world model decoder that predicts future-frame tokens, forcing the latent space to internalize the causal dynamics of road geometry, agent motion, and environmental change. A three-stage training pipeline progressively aligns these latents with trajectory, language, and visual objectives, ensuring stable joint optimization. In inference, the auxiliary decoders are discarded, and all latent tokens are prefilled in a single parallel pass, matching the speed of answer-only prediction. Across four benchmarks, OneVL becomes the first latent CoT method to surpass explicit CoT, delivering superior accuracy at answer-only latency. These results show that with world model supervision, latent CoT produces more generalizable representations than verbose token-by-token reasoning.
 
 [Paper](https://openreview.net/forum?id=io21Uc8UVk) [Project](https://xiaomi-embodied-intelligence.github.io/OneVL/) [Code](https://github.com/xiaomi-research/OneVL)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/rspo.png' height="200"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**RSPO: Reasoning-Supervised Policy Optimization for Long-Tail Autonomous Driving**
+
+Jiayi Guan *, Jing Wu *, Jianhua Wu *, **Jinghui Lu** *, Zhijian Huang *, Guang Li, Xiaoshuai Hao ✉️, Hanbing Li, Yigu Ge, Tao Xu, Haiyang Sun, Bing Wang, Guang Chen, Kuiyuan Yang, Hangjun Ye, Long Chen ✉️
+
+Vision-Language Models (VLMs) have achieved remarkable advances in general autonomous driving. Nevertheless, effectively exploiting the reasoning capability of Chain-of-Thought (CoT) to enhance the robustness and accuracy of decision and planning in long-tail scenarios still remains a challenging open problem. To this end, we propose a Reasoning-Supervised Policy Optimization (RSPO) algorithm to boost reasoning and decision-making performance under long-tail driving scenarios. We design a curriculum-guided supervised fine-tuning strategy and a reasoning-supervised optimization algorithm that guides the optimality consistency between reasoning processes and final decisions, and construct multiple verifiable autonomous driving reasoning and decision datasets. RSPO achieves consistent accuracy improvements across datasets, including a 6.7% relative improvement over the strong baseline on CODA-LM and lower trajectory-prediction errors on downstream planning tasks.
+
+[Paper](https://openreview.net/forum?id=J3cKSlk1K3)
 
 </div>
 </div>
